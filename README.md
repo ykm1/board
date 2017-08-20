@@ -1,4 +1,3 @@
-# board
 ### PHP_board project
 ___
 Bulletin board implementation such as writing, editing and deleting<br>
