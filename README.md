@@ -1,4 +1,4 @@
-## PHP_board project
+### PHP_board project
 ___
 Bulletin board implementation such as writing, editing and deleting<br>
 Please visit my blog for more details.<br>
